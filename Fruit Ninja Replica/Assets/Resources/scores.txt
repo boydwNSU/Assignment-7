@@ -1,0 +1,9 @@
+71,DeKo
+47,DeKo
+46,Korp
+23,Korp
+21,DeKo
+14,Steve
+10,Korp
+10,Korp
+0,CPU
