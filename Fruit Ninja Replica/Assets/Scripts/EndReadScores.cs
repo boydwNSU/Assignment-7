@@ -19,7 +19,7 @@ public class EndReadScores : MonoBehaviour
         string[] readText; // array of lines in file
         string[] fields; // fields in the line
 
-        Summary.text = "Player: " + ReadScores.thePlayerName + "\nFruit Cut: " + Fruit.cutFruit + "\nFruit Missed: " + Fruit.unharmedFruit;
+        Summary.text = "Player: " + ReadScores.thePlayerName + "\nFruit Cut: " + Fruit.cutFruit + "\nFruit Missed: " + Fruit.unharmedFruit + "\nBombs Hit: " + Bomb.bombsHit;
 
         string path = "Assets/Resources/scores.txt";
 

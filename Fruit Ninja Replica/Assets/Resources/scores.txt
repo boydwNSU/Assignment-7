@@ -3,7 +3,10 @@
 46,Korp
 23,Korp
 21,DeKo
+19,Korp
 14,Steve
+13,Korp
+13,DeKo
 10,Korp
 10,Korp
 0,CPU

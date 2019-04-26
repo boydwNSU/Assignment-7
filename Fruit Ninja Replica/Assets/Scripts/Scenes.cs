@@ -17,6 +17,7 @@ public class Scenes : MonoBehaviour
     {
         Fruit.cutFruit = 0;
         Fruit.unharmedFruit = 0;
+        Bomb.bombsHit = 0;
         SceneManager.LoadScene("Main");
     }
 
